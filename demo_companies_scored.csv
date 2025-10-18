@@ -1,0 +1,6 @@
+company_id,faturamento_mensal,tempo_operacao_meses,inadimplencia_pct,parceladas_pct,crescimento_3m,ticket_medio,chargebacks_pct,numero_clientes,score_raw,decision
+DEMO1,30000,12,0.02,0.1,0.05,80,0.0,80,18.60774819737131,reject
+DEMO2,120000,60,0.1,0.05,0.2,300,0.02,200,74.47429578332438,approve
+DEMO3,45000,6,0.3,0.4,-0.1,50,0.04,30,10.58545027311536,reject
+DEMO4,8000,8,0.5,0.2,-0.25,30,0.08,10,13.03665896700612,reject
+DEMO5,60000,36,0.05,0.15,0.01,120,0.01,120,39.91589374740813,reject
